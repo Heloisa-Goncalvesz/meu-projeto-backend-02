@@ -1,4 +1,4 @@
-🚀 Teste 2 de memorização de comandos "Configuração de Servidor Back-End com Express e TypeScript"
+## 🚀 Teste 2 de memorização de comandos "Configuração de Servidor Back-End com Express e TypeScript"
 
 Este projeto possui a estrutura inicial de uma aplicação back-end construída com **Node.js**, **Express** e **TypeScript**. O objetivo é demonstrar a preparação do ambiente de desenvolvimento do zero, a configuração das ferramentas e a criação de um servidor HTTP funcional.
 
