@@ -11,7 +11,7 @@ Este projeto possui a estrutura inicial de uma aplicação back-end construída 
 * **Express:** É um framework web minimalista para Node.js que facilita o gerenciamento de rotas, requisições e respostas HTTP.
 * **TSX:** Uma ferramenta moderna que executa arquivos TypeScript diretamente e possui a flag `--watch`, que reinicia o servidor automaticamente sempre que um arquivo é alterado.
 
-## Comandos em ordem 
+## Comandos em Ordem 
 npm init -y
 npm i -D typescript @types/node tsx
 npx tsc --init
